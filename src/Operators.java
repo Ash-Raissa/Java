@@ -2,7 +2,7 @@ public class Operators {
     public static void main (String[]args){
 
        //Arithmetic operators
-
+/*
         int x = 10;
         int y = 3;
         int z;
@@ -42,7 +42,7 @@ public class Operators {
         double result = 3 + 4 * (7 - 5)/2.0;
 
         System.out.println(result);
-
+*/
 
 
 
